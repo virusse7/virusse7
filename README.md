@@ -1,4 +1,8 @@
 ### Hi there 👋
+---
+
+👦 I'm Daniel! Actually learning Frontend but in future I want to be Fullstack.<br>
+Want to learn new tools, things to use them in future projects and gain new experience.
 
 ### 🔭 I’m currently working on:
 
