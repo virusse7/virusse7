@@ -43,6 +43,7 @@ Tools
   and it was created by IBM engineer David Bradley.
   It became widely known as a way to interrupt or log in to the Windows operating system.
 </p>
+
 ---
 
 <h3 align="center"> Thanks for visiting my GitHub! 😄</h3>
