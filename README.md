@@ -18,6 +18,8 @@ Responsive websites in React to add new projects to portfolio 🚀
   - TypeScript
   - Node.js
   - MySQL
+  - React Native
+  - Tailwind CSS
 
 ### 🛠️ Languages and Tools:
 
