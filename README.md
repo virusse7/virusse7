@@ -10,23 +10,27 @@ Responsive websites in React to add new projects to portfolio 🚀
 
 ### 🌱 I’m currently learning: 
   
-  - Redux-Saga
-  - fetch, axios
+  - Tailwind CSS
+  - TypeScript
 
 ### 📖 Want to learn in future: 
 
-  - TypeScript
+  - Redux-Saga
+  - fetch, axios
   - Node.js
   - MySQL
   - React Native
-  - Tailwind CSS
+  - Next.js
 
 ### 🛠️ Languages and Tools:
 
 #### Main
 ![Static Badge](https://img.shields.io/badge/-HTML5-HTML5?style=for-the-badge&logo=HTML5&logoColor=white&color=orange)
 ![Static Badge](https://img.shields.io/badge/-JavaScript-yelow?style=for-the-badge&logo=JavaScript&color=black)
+![Static Badge](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![Static Badge](https://img.shields.io/badge/-CSS3-CSS3?style=for-the-badge&logo=CSS3&color=blue)
+![Static Badge](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
+
 
 Tools
 
