@@ -6,7 +6,7 @@ Want to learn new tools, things to use them in future projects and gain new expe
 
 ### 🔭 I’m currently working on:
 
-Responsive websites in React to add new projects to portfolio 🚀
+Project in Next.js with TS
 
 ### 🌱 I’m currently learning: 
   
